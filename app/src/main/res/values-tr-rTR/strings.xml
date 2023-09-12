@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">götür</string>
+    <string name="avocadoSalad">Avokado Salatası</string>
+    <string name="priceTag">120 ₺</string>
+    <string name="foodDescription">Marul, yeşillik, kiraz domates, otlar, zeytinyağı ve limon soslu Taze Avokado ve Karides Salatası canlı, lezzetli ve sağlıklı bir yemektir.</string>
+    <string name="foodDetails">Yiyecek Detayları</string>
+    <string name="ingredientsText">Malzemeler</string>
+    <string name="shrimpText">karides</string>
+    <string name="cheeseText">peynir</string>
+    <string name="tomatoText">domates</string>
+    <string name="oliveText">zeytin</string>
+    <string name="avocadoText">avokado</string>
+    <string name="addToCart">SEPETE EKLE</string>
+</resources>

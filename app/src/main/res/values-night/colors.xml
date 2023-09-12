@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="altRenk">#2B2A2A</color>
+    <color name="anaRenk">#565E06</color>
+    <color name="ikincilRenk">#F18360</color>
+    <color name="yaziRenk1">#FFFFFF</color>
+    <color name="yaziRenk2">#FFFFFF</color>
+    <color name="yaziRenk3">#FFFFFF</color>
+</resources>

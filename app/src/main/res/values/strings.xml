@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">TasarimOrnegi</string>
+    <string name="app_name">götür</string>
+    <string name="avocadoSalad">Avocado Salad</string>
+    <string name="priceTag">$ 25.95</string>
+    <string name="foodDescription">Fresh Avocado and Shrimp Salad with lettuce, greens, cherry tomatoes, herbs, olive oil, and lemon dressing is a vibrant, flavorful, and healthy dish.</string>
+    <string name="foodDetails">Food Details</string>
+    <string name="ingredientsText">Ingredients</string>
+    <string name="shrimpText">shrimp</string>
+    <string name="cheeseText">cheese</string>
+    <string name="tomatoText">tomato</string>
+    <string name="oliveText">olive</string>
+    <string name="avocadoText">avocado</string>
+    <string name="addToCart">ADD TO CART</string>
+
 </resources>
